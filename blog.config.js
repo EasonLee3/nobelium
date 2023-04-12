@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  title: '听我瞎比比',
+  author: 'E-Lee',
+  email: 'easonlee3333@gmail.com',
+  link: 'https://www.notion.so/d20b32e505d9411d96c7a3232f1fa176?v=73411ff0902547e5a314ca5610067860&pvs=4',
+  description: 'I don't know what to do, just wanna say.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
